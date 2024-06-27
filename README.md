@@ -1,8 +1,8 @@
-### There was *an attempt* to remove the obnoxious logos and branding from this build.
-##### Whereupon I replaced them with **my own** obnoxious logos and branding! Yay!
+## There was *an attempt* to remove the obnoxious logos and branding from this build.
+#### Whereupon I replaced them with **my own** obnoxious logos and branding! Yay!
 
-*Guaranteed* to be out of date because I'm shitty at maintaining packages.
-I use this with stablediffusion-webui-forge
+- *Guaranteed* to be out of date because I'm shitty at maintaining packages.
+- I use this with stablediffusion-webui-forge
 
 ---
 
