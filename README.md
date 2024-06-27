@@ -1,3 +1,10 @@
+### There was *an attempt* to remove the obnoxious logos and branding from this build.
+Guaranteed to be out of date because I'm shitty at maintaining packages.
+
+I use this with stablediffusion-webui-forge
+
+---
+
 <a name="readme-top"></a>
 
 <div align="center">
